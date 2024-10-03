@@ -2,7 +2,8 @@
 
 This project deploys a weather application using AWS CDK, integrating Amazon Bedrock Agents with a Streamlit frontend. The application can be deployed on either EC2 or ECS, and uses Lambda functions to fetch weather data and geocode city names. This is for learning or dev/test and not meant for production.  
 
-![unnamed](https://github.com/user-attachments/assets/edbc07a4-5063-4962-8cee-2002a0241713)
+![image](https://github.com/user-attachments/assets/16bc2cd1-da7b-4ac7-b16a-64e280f9388b)
+
 
 
 ## Prerequisites
